@@ -30,7 +30,8 @@ For the water quality classification, we used a **Random Forest Classifier** to 
 ## 7. UI Interface for Manual Predictions
 A user-friendly **UI interface** will be developed to allow fish farmers to input water quality parameters manually and receive predictions for both fish growth (length and weight) and water quality classification (Good, Moderate, Poor). This will empower farmers to make quick, informed decisions about their farming practices without needing technical expertise.
 
-![UI Interface Screenshot](insert_screenshot_here)
+![WhatsApp Image 2024-11-29 at 10 05 45 PM](https://github.com/user-attachments/assets/f8a216c8-d4e1-4186-98c9-2d1abf268ba0)
+
 ## Design and Development
 This will involve **data preprocessing and initial model training**
 **Importing libraries, loading and exploring the dataset**
