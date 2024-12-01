@@ -368,4 +368,6 @@ plt.ylabel('True Label')
 plt.tight_layout()
 plt.show()
 ```
+![pred](https://github.com/user-attachments/assets/eae58273-cc9c-4966-b164-58adb812f47d)
+
 The Confusion Matrix shows that most predictions were accurate.
